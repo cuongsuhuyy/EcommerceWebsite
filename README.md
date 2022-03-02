@@ -26,3 +26,4 @@ Flow JIRA
 
 Style create MERGE REQUEST
 - [NumberTask]:Short Description about task
+- Allways add details description when create MERGE REQUEST
